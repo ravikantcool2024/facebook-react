@@ -5,7 +5,7 @@
   "scripts": {},
   "license": "MIT",
   "dependencies": {
-    "chalk": "^2.1.0",
+    "chalk": "^2.4.2",
     "child-process-promise": "^2.2.1",
     "clear": "^0.1.0",
     "cli-spinners": "^1.1.0",
